@@ -3,7 +3,7 @@ class Animal {
 	constructor(species){
 		this.species=species;
 	}
-	get spc(species){
+	get spc(){
 		reurun this.species;
 	}
 	makeSound(){
