@@ -1,6 +1,6 @@
 //complete this code
 class Animal {
-	constructor Animal(species){
+	constructor(species){
 		this.species=species;
 	}
 	get spc(species){
